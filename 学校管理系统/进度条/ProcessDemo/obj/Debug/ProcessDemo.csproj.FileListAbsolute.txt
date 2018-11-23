@@ -1,0 +1,12 @@
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\bin\Debug\ProcessDemo.exe.config
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\bin\Debug\ProcessDemo.exe
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\bin\Debug\ProcessDemo.pdb
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\bin\Debug\Process.dll
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\bin\Debug\Process.pdb
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.FormMain.resources
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.Properties.Resources.resources
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.csproj.CoreCompileInputs.cache
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.exe
+C:\Users\邦杠\Desktop\学校管理系统\进度条\ProcessDemo\obj\Debug\ProcessDemo.pdb

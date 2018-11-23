@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "水电费管理", "水电费管理\水电费管理.csproj", "{86BBD7F9-C42E-4ED5-83F9-59F96204896B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BBD7F9-C42E-4ED5-83F9-59F96204896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BBD7F9-C42E-4ED5-83F9-59F96204896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BBD7F9-C42E-4ED5-83F9-59F96204896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BBD7F9-C42E-4ED5-83F9-59F96204896B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF2056A-9A40-44DA-800C-9B6277EC83EE}
+	EndGlobalSection
+EndGlobal

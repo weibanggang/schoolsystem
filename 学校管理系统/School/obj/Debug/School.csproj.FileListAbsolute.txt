@@ -1,0 +1,702 @@
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\School.exe
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.exe
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.exe
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\bin\Debug\School.exe
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_cqLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_jsLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_pugongLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_sfLog1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_sfok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_tushuLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshenghuiLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_xueshengweijiLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_login1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.pugongguanl1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.stu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Tch.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\新建文件夹 (2)\学校管理系统\School\bin\Debug\IrisSkin4.dll
+C:\Users\小贱\Desktop\ws\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.exe
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\小贱\Desktop\ws\学校管理系统\School\bin\Debug\School.exe
+C:\Users\小贱\Desktop\ws\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_cqLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_jsLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_pugongLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_sfLog1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_sfok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_tushuLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshenghuiLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_xueshengweijiLogin1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_login1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.pugongguanl1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.stu.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Tch.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\小贱\Desktop\ws\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.exe
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\bin\Debug\School.exe
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\bin\Debug\IrisSkin4.dll
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_jsLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_pugongLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_tushuLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshenghuiLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengweijiLogin1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_login1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.stu.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Tch.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xueshengweij_ok.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+C:\Users\邦杠\Desktop\校管家\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.版本更新.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.exe
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\bin\Debug\School.exe
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\bin\Debug\IrisSkin4.dll
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_pugongLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_tushuLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshenghuiLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengweijiLogin1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_login1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_xueshengweij_ok.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.stu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Tch.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.版本更新.resources
+C:\Users\邦杠\Desktop\新建文件夹 (2)\2017.21.39\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\bin\Debug\School.exe
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_pugongLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_tushuLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshenghuiLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengweijiLogin1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_login1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_xueshengweij_ok.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.stu.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Tch.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.版本更新.resources
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.exe
+C:\Users\邦杠\Desktop\s\学校管理系统\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\asd\Desktop\学校管理系统\School\bin\Debug\School.exe.config
+C:\Users\asd\Desktop\学校管理系统\School\bin\Debug\School.exe
+C:\Users\asd\Desktop\学校管理系统\School\bin\Debug\School.pdb
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_AdminLogin1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengweij_ok.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.jiaosdenglu.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.jiaoshidengl.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Login1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.login2.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.pigongdenglu_1_.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.pugongdenglu.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sf1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Usshuse.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.xueshengdengl.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.xueshengdenglu.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.版本更新.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.exe
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.pdb
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl.resources
+C:\Users\asd\Desktop\学校管理系统\School\bin\Debug\CSkin.xml
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw_1.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6upda.resources
+C:\Users\asd\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwsele.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suse_fh.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\weathericon\weather\0.gif
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\WindowsForm.exe
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\WindowsForm.pdb
+C:\Users\邦杠\Desktop\学校管理系统\School\bin\Debug\WindowsForm.exe.config
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfinto.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwsele_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_weixiu_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_wxinto_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw_1_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_wxupda_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_wxsele_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfintoshow.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.suselbaob.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_2ifin.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2if_1if.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\Process.ProcessForm.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suse_lh.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nwsele2s.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.susenwbaob.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.suseneiwbaobxx.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfbiaobiao1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.susesfbaob.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfbiaobiao2_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_6_sfbaobiao_3.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.susesfbaobxx.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_sfupdateshow.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1xx.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1baobiao.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.xueshengxinxibaobiao.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xshok_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_xshok_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_jshiok1_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_pugongok1zw.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1xinx.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2s.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Login.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_2.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.gongkao.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.dlqk.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_Adminok_2ck.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\Interop.Office.dll
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.csproj.ResolveComReference.cache
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.Admin_suseok_5nwsele2s_1.resources
+C:\Users\邦杠\Desktop\学校管理系统\School\obj\Debug\School.setuanbaobiao.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\Interop.Office.dll
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.exe
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.pdb
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\weathericon\weather\0.gif
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\School.exe.config
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\School.exe
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\School.pdb
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\WindowsForm.exe
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\WindowsForm.pdb
+F:\项目\3.30项目比赛\学校管理系统\School\bin\Debug\WindowsForm.exe.config
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.csproj.ResolveComReference.cache
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_1_go.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_2ck.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok2_sele.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_1ifin_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_jshiok1_jsxinxi_2ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.xiugaiss.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1zw.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2lx.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1_into2zw.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugongok1_sele.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_pugong_1ok.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1xinx.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_1ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_1ifin_ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_Adminok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2ifin_2ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_2s.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_shetuanok_3upda.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_2lfin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_4ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1_ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_5nwsele2s.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_5nwsele2s_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_5nw_1_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwbaobiao_3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_6_nwsele_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_6_sfbaobiao_3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_lcgl_3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfbiaobiao1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfbiaobiao2_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfinto.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfintoshow.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_sfupdateshow.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_weixiu_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_wxinto_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_wxsele_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_wxupda_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suse_fh.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suse_lh.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_tushuok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_tushuok_2into.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_tushuok_2sele.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xsh2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xsh3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xsh4.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xshok.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xshok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xsh_select.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xsh_upda.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1if_1if_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_1sele.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2if_1if.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok2_2zw_ifcs.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1baobiao.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1sele.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_1xx.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_1_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_2ifin.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xueshengok_2_3.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_xshok_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.dlqk.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.gongkao.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Login1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Login.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\Process.ProcessForm.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Properties.Resources.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.setuanbaobiao.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.suselbaob.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.suseneiwbaobxx.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.susenwbaob.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.susesfbaob.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.susesfbaobxx.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Usshuse.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Userzhusu1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_4_1.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_2.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.Admin_suseok_4.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.frmAAxgpwd.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.xueshengxinxibaobiao.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.版本更新.resources
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.csproj.GenerateResource.cache
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+F:\项目\3.30项目比赛\学校管理系统\School\obj\Debug\School.csproj.CopyComplete

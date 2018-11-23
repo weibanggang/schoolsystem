@@ -1,0 +1,7 @@
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\bin\Debug\Process.dll
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\bin\Debug\Process.pdb
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\obj\Debug\Process.ProcessForm.resources
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\obj\Debug\Process.csproj.CoreCompileInputs.cache
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\obj\Debug\Process.dll
+C:\Users\邦杠\Desktop\学校管理系统\进度条\Process\obj\Debug\Process.pdb

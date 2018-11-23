@@ -1,0 +1,13 @@
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\bin\Debug\水电费管理.exe.config
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\bin\Debug\水电费管理.exe
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\bin\Debug\水电费管理.pdb
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.csprojResolveAssemblyReference.cache
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.Form1.resources
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.FrmMain.resources
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.Properties.Resources.resources
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.csproj.GenerateResource.Cache
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.csproj.CoreCompileInputs.cache
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.exe
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.pdb
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\School.Admin_suseok_sfinto.resources
+E:\QQPCmgr\Desktop\水电费管理\水电费管理\obj\Debug\水电费管理.FrmFee.resources

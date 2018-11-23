@@ -1,0 +1,1360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3C6E6083-33F3-4116-A440-41255F0E8FDA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>School</RootNamespace>
+    <AssemblyName>School</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>bin\Debug\CSkin 16.1.14.2\CSkin 2.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin4">
+      <HintPath>..\..\..\学校管理系统\School\bin\Debug\Skins\IrisSkin4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Adminok_1_go.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_1_go.Designer.cs">
+      <DependentUpon>Admin_Adminok_1_go.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Adminok_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_2.Designer.cs">
+      <DependentUpon>Admin_Adminok_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Adminok_2ck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_2ck.Designer.cs">
+      <DependentUpon>Admin_Adminok_2ck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_1.Designer.cs">
+      <DependentUpon>Admin_jshiok1_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_2.Designer.cs">
+      <DependentUpon>Admin_jshiok1_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok2_sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok2_sele.Designer.cs">
+      <DependentUpon>Admin_jshiok2_sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi.Designer.cs">
+      <DependentUpon>Admin_jshiok1_jsxinxi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1.Designer.cs">
+      <DependentUpon>Admin_jshiok1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi_1ifin_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi_1ifin_1.Designer.cs">
+      <DependentUpon>Admin_jshiok1_jsxinxi_1ifin_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi_2ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_jsxinxi_2ifin.Designer.cs">
+      <DependentUpon>Admin_jshiok1_jsxinxi_2ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_jshiok1_upda1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_jshiok1_upda1.Designer.cs">
+      <DependentUpon>Admin_jshiok1_upda1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1.Designer.cs">
+      <DependentUpon>Admin_pugongok1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1zw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1zw.Designer.cs">
+      <DependentUpon>Admin_pugongok1zw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1_1.Designer.cs">
+      <DependentUpon>Admin_pugongok1_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into1.Designer.cs">
+      <DependentUpon>Admin_pugongok1_into1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into2lx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into2lx.Designer.cs">
+      <DependentUpon>Admin_pugongok1_into2lx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into2zw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1_into2zw.Designer.cs">
+      <DependentUpon>Admin_pugongok1_into2zw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugongok1_sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugongok1_sele.Designer.cs">
+      <DependentUpon>Admin_pugongok1_sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_pugong_1ok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_pugong_1ok.Designer.cs">
+      <DependentUpon>Admin_pugong_1ok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_1xinx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_1xinx.Designer.cs">
+      <DependentUpon>Admin_shetuanok_1xinx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin_1ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin_1ifin.Designer.cs">
+      <DependentUpon>Admin_shetuanok_2ifin_1ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Adminok_1ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_1ifin.Designer.cs">
+      <DependentUpon>Admin_Adminok_1ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Adminok_1ifin_ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_1ifin_ifin.Designer.cs">
+      <DependentUpon>Admin_Adminok_1ifin_ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Adminok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Adminok_1.Designer.cs">
+      <DependentUpon>Admin_Adminok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_1.Designer.cs">
+      <DependentUpon>Admin_shetuanok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin.Designer.cs">
+      <DependentUpon>Admin_shetuanok_2ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin_2ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2ifin_2ifin.Designer.cs">
+      <DependentUpon>Admin_shetuanok_2ifin_2ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2s.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_2s.Designer.cs">
+      <DependentUpon>Admin_shetuanok_2s.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_3.Designer.cs">
+      <DependentUpon>Admin_shetuanok_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_shetuanok_3upda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_shetuanok_3upda.Designer.cs">
+      <DependentUpon>Admin_shetuanok_3upda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_2lfin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_2lfin.Designer.cs">
+      <DependentUpon>Admin_suseok_2lfin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_4ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_4ifin.Designer.cs">
+      <DependentUpon>Admin_suseok_4ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_4_1_ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_4_1_ifin.Designer.cs">
+      <DependentUpon>Admin_suseok_4_1_ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_5nw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_5nw.Designer.cs">
+      <DependentUpon>Admin_suseok_5nw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_5nwsele2s.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_5nwsele2s.Designer.cs">
+      <DependentUpon>Admin_suseok_5nwsele2s.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_5nwsele2s_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_5nwsele2s_1.Designer.cs">
+      <DependentUpon>Admin_suseok_5nwsele2s_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_5nw_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_5nw_1_1.designer.cs">
+      <DependentUpon>Admin_suseok_5nw_1_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_1.Designer.cs">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_2.Designer.cs">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwbaobiao_3.Designer.cs">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwsele_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_6_nwsele_1.Designer.cs">
+      <DependentUpon>Admin_suseok_6_nwsele_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_6_sfbaobiao_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_6_sfbaobiao_3.Designer.cs">
+      <DependentUpon>Admin_suseok_6_sfbaobiao_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl.Designer.cs">
+      <DependentUpon>Admin_suseok_lcgl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_1.Designer.cs">
+      <DependentUpon>Admin_suseok_lcgl_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_2.Designer.cs">
+      <DependentUpon>Admin_suseok_lcgl_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_lcgl_3.Designer.cs">
+      <DependentUpon>Admin_suseok_lcgl_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfbiaobiao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfbiaobiao1.Designer.cs">
+      <DependentUpon>Admin_suseok_sfbiaobiao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfbiaobiao2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfbiaobiao2_1.Designer.cs">
+      <DependentUpon>Admin_suseok_sfbiaobiao2_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfinto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfinto.Designer.cs">
+      <DependentUpon>Admin_suseok_sfinto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfintoshow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfintoshow.designer.cs">
+      <DependentUpon>Admin_suseok_sfintoshow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfok_1.Designer.cs">
+      <DependentUpon>Admin_suseok_sfok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_sfupdateshow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_sfupdateshow.Designer.cs">
+      <DependentUpon>Admin_suseok_sfupdateshow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_weixiu_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_weixiu_1.Designer.cs">
+      <DependentUpon>Admin_suseok_weixiu_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_wxinto_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_wxinto_1.Designer.cs">
+      <DependentUpon>Admin_suseok_wxinto_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_wxsele_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_wxsele_1.Designer.cs">
+      <DependentUpon>Admin_suseok_wxsele_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_wxupda_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_wxupda_1.Designer.cs">
+      <DependentUpon>Admin_suseok_wxupda_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suse_fh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suse_fh.Designer.cs">
+      <DependentUpon>Admin_suse_fh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suse_lh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suse_lh.Designer.cs">
+      <DependentUpon>Admin_suse_lh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_tushuok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_tushuok_1.Designer.cs">
+      <DependentUpon>Admin_tushuok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_tushuok_2into.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_tushuok_2into.Designer.cs">
+      <DependentUpon>Admin_tushuok_2into.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_tushuok_2sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_tushuok_2sele.Designer.cs">
+      <DependentUpon>Admin_tushuok_2sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xsh2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xsh2.designer.cs">
+      <DependentUpon>Admin_xsh2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xsh3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xsh3.designer.cs">
+      <DependentUpon>Admin_xsh3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xsh4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xsh4.designer.cs">
+      <DependentUpon>Admin_xsh4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xshok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xshok.designer.cs">
+      <DependentUpon>Admin_xshok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xshok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xshok_1.Designer.cs">
+      <DependentUpon>Admin_xshok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xsh_select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xsh_select.designer.cs">
+      <DependentUpon>Admin_xsh_select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xsh_upda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xsh_upda.designer.cs">
+      <DependentUpon>Admin_xsh_upda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1if_1if.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1if_1if.Designer.cs">
+      <DependentUpon>Admin_xueshengok2_1if_1if.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1if_1if_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1if_1if_1.Designer.cs">
+      <DependentUpon>Admin_xueshengok2_1if_1if_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_1sele.Designer.cs">
+      <DependentUpon>Admin_xueshengok2_1sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_2if_1if.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_2if_1if.Designer.cs">
+      <DependentUpon>Admin_xueshengok2_2if_1if.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_2zw_ifcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok2_2zw_ifcs.Designer.cs">
+      <DependentUpon>Admin_xueshengok2_2zw_ifcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1.Designer.cs">
+      <DependentUpon>Admin_xueshengok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1baobiao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1baobiao.Designer.cs">
+      <DependentUpon>Admin_xueshengok_1baobiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1sele.Designer.cs">
+      <DependentUpon>Admin_xueshengok_1sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1xx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_1xx.Designer.cs">
+      <DependentUpon>Admin_xueshengok_1xx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1ifin.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_1ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_1.Designer.cs">
+      <DependentUpon>Admin_suseok_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_1_1.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_1_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_2.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_2ifin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_2ifin.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_2ifin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xueshengok_2_3.Designer.cs">
+      <DependentUpon>Admin_xueshengok_2_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_xshok_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_xshok_2.Designer.cs">
+      <DependentUpon>Admin_xshok_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="dlqk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="dlqk.Designer.cs">
+      <DependentUpon>dlqk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gongkao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gongkao.Designer.cs">
+      <DependentUpon>gongkao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login1.Designer.cs">
+      <DependentUpon>Login1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PercentProcessOperator.cs" />
+    <Compile Include="ProcessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessForm.Designer.cs">
+      <DependentUpon>ProcessForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessOperator.cs.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="setuanbaobiao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setuanbaobiao.Designer.cs">
+      <DependentUpon>setuanbaobiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="suselbaob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="suselbaob.Designer.cs">
+      <DependentUpon>suselbaob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="suseneiwbaobxx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="suseneiwbaobxx.Designer.cs">
+      <DependentUpon>suseneiwbaobxx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="susenwbaob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="susenwbaob.Designer.cs">
+      <DependentUpon>susenwbaob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="susesfbaob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="susesfbaob.Designer.cs">
+      <DependentUpon>susesfbaob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="susesfbaobxx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="susesfbaobxx.Designer.cs">
+      <DependentUpon>susesfbaobxx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usershusu2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usershusu2.Designer.cs">
+      <DependentUpon>Usershusu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Userzhusu1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Userzhusu1.Designer.cs">
+      <DependentUpon>Userzhusu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_4_1.Designer.cs">
+      <DependentUpon>Admin_suseok_4_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_2.Designer.cs">
+      <DependentUpon>Admin_suseok_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_suseok_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_suseok_4.Designer.cs">
+      <DependentUpon>Admin_suseok_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAAxgpwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAAxgpwd.Designer.cs">
+      <DependentUpon>frmAAxgpwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xueshengxinxibaobiao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="xueshengxinxibaobiao.Designer.cs">
+      <DependentUpon>xueshengxinxibaobiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="版本更新.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="版本更新.Designer.cs">
+      <DependentUpon>版本更新.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin_Adminok_1_go.resx">
+      <DependentUpon>Admin_Adminok_1_go.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Adminok_2.resx">
+      <DependentUpon>Admin_Adminok_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Adminok_2ck.resx">
+      <DependentUpon>Admin_Adminok_2ck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_1.resx">
+      <DependentUpon>Admin_jshiok1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_2.resx">
+      <DependentUpon>Admin_jshiok1_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok2_sele.resx">
+      <DependentUpon>Admin_jshiok2_sele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_jsxinxi.resx">
+      <DependentUpon>Admin_jshiok1_jsxinxi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1.resx">
+      <DependentUpon>Admin_jshiok1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_jsxinxi_1ifin_1.resx">
+      <DependentUpon>Admin_jshiok1_jsxinxi_1ifin_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_jsxinxi_2ifin.resx">
+      <DependentUpon>Admin_jshiok1_jsxinxi_2ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_jshiok1_upda1.resx">
+      <DependentUpon>Admin_jshiok1_upda1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1.resx">
+      <DependentUpon>Admin_pugongok1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1zw.resx">
+      <DependentUpon>Admin_pugongok1zw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1_1.resx">
+      <DependentUpon>Admin_pugongok1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1_into1.resx">
+      <DependentUpon>Admin_pugongok1_into1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1_into2lx.resx">
+      <DependentUpon>Admin_pugongok1_into2lx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1_into2zw.resx">
+      <DependentUpon>Admin_pugongok1_into2zw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugongok1_sele.resx">
+      <DependentUpon>Admin_pugongok1_sele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_pugong_1ok.resx">
+      <DependentUpon>Admin_pugong_1ok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_1xinx.resx">
+      <DependentUpon>Admin_shetuanok_1xinx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_2ifin_1ifin.resx">
+      <DependentUpon>Admin_shetuanok_2ifin_1ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Adminok_1ifin.resx">
+      <DependentUpon>Admin_Adminok_1ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Adminok_1ifin_ifin.resx">
+      <DependentUpon>Admin_Adminok_1ifin_ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Adminok_1.resx">
+      <DependentUpon>Admin_Adminok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_1.resx">
+      <DependentUpon>Admin_shetuanok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_2ifin.resx">
+      <DependentUpon>Admin_shetuanok_2ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_2ifin_2ifin.resx">
+      <DependentUpon>Admin_shetuanok_2ifin_2ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_2s.resx">
+      <DependentUpon>Admin_shetuanok_2s.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_3.resx">
+      <DependentUpon>Admin_shetuanok_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_shetuanok_3upda.resx">
+      <DependentUpon>Admin_shetuanok_3upda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_2lfin.resx">
+      <DependentUpon>Admin_suseok_2lfin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_4ifin.resx">
+      <DependentUpon>Admin_suseok_4ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_4_1_ifin.resx">
+      <DependentUpon>Admin_suseok_4_1_ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_5nw.resx">
+      <DependentUpon>Admin_suseok_5nw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_5nwsele2s.resx">
+      <DependentUpon>Admin_suseok_5nwsele2s.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_5nwsele2s_1.resx">
+      <DependentUpon>Admin_suseok_5nwsele2s_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_5nw_1_1.resx">
+      <DependentUpon>Admin_suseok_5nw_1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_6_nwbaobiao_1.resx">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_6_nwbaobiao_2.resx">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_6_nwbaobiao_3.resx">
+      <DependentUpon>Admin_suseok_6_nwbaobiao_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_6_nwsele_1.resx">
+      <DependentUpon>Admin_suseok_6_nwsele_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_6_sfbaobiao_3.resx">
+      <DependentUpon>Admin_suseok_6_sfbaobiao_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_lcgl.resx">
+      <DependentUpon>Admin_suseok_lcgl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_lcgl_1.resx">
+      <DependentUpon>Admin_suseok_lcgl_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_lcgl_2.resx">
+      <DependentUpon>Admin_suseok_lcgl_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_lcgl_3.resx">
+      <DependentUpon>Admin_suseok_lcgl_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfbiaobiao1.resx">
+      <DependentUpon>Admin_suseok_sfbiaobiao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfbiaobiao2_1.resx">
+      <DependentUpon>Admin_suseok_sfbiaobiao2_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfinto.resx">
+      <DependentUpon>Admin_suseok_sfinto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfintoshow.resx">
+      <DependentUpon>Admin_suseok_sfintoshow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfok_1.resx">
+      <DependentUpon>Admin_suseok_sfok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_sfupdateshow.resx">
+      <DependentUpon>Admin_suseok_sfupdateshow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_weixiu_1.resx">
+      <DependentUpon>Admin_suseok_weixiu_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_wxinto_1.resx">
+      <DependentUpon>Admin_suseok_wxinto_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_wxsele_1.resx">
+      <DependentUpon>Admin_suseok_wxsele_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_wxupda_1.resx">
+      <DependentUpon>Admin_suseok_wxupda_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suse_fh.resx">
+      <DependentUpon>Admin_suse_fh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suse_lh.resx">
+      <DependentUpon>Admin_suse_lh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_tushuok_1.resx">
+      <DependentUpon>Admin_tushuok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_tushuok_2into.resx">
+      <DependentUpon>Admin_tushuok_2into.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_tushuok_2sele.resx">
+      <DependentUpon>Admin_tushuok_2sele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xsh2.resx">
+      <DependentUpon>Admin_xsh2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xsh3.resx">
+      <DependentUpon>Admin_xsh3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xsh4.resx">
+      <DependentUpon>Admin_xsh4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xshok.resx">
+      <DependentUpon>Admin_xshok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xshok_1.resx">
+      <DependentUpon>Admin_xshok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xsh_select.resx">
+      <DependentUpon>Admin_xsh_select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xsh_upda.resx">
+      <DependentUpon>Admin_xsh_upda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok2_1if_1if.resx">
+      <DependentUpon>Admin_xueshengok2_1if_1if.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok2_1if_1if_1.resx">
+      <DependentUpon>Admin_xueshengok2_1if_1if_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok2_1sele.resx">
+      <DependentUpon>Admin_xueshengok2_1sele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok2_2if_1if.resx">
+      <DependentUpon>Admin_xueshengok2_2if_1if.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok2_2zw_ifcs.resx">
+      <DependentUpon>Admin_xueshengok2_2zw_ifcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_1.resx">
+      <DependentUpon>Admin_xueshengok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_1baobiao.resx">
+      <DependentUpon>Admin_xueshengok_1baobiao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_1sele.resx">
+      <DependentUpon>Admin_xueshengok_1sele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_1xx.resx">
+      <DependentUpon>Admin_xueshengok_1xx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2.resx">
+      <DependentUpon>Admin_xueshengok_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_1.resx">
+      <DependentUpon>Admin_xueshengok_2_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_1ifin.resx">
+      <DependentUpon>Admin_xueshengok_2_1ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_1.resx">
+      <DependentUpon>Admin_suseok_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_1_1.resx">
+      <DependentUpon>Admin_xueshengok_2_1_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_2.resx">
+      <DependentUpon>Admin_xueshengok_2_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_2ifin.resx">
+      <DependentUpon>Admin_xueshengok_2_2ifin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xueshengok_2_3.resx">
+      <DependentUpon>Admin_xueshengok_2_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_xshok_2.resx">
+      <DependentUpon>Admin_xshok_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlqk.resx">
+      <DependentUpon>dlqk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gongkao.resx">
+      <DependentUpon>gongkao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login1.resx">
+      <DependentUpon>Login1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessForm.resx">
+      <DependentUpon>ProcessForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setuanbaobiao.resx">
+      <DependentUpon>setuanbaobiao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suselbaob.resx">
+      <DependentUpon>suselbaob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suseneiwbaobxx.resx">
+      <DependentUpon>suseneiwbaobxx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="susenwbaob.resx">
+      <DependentUpon>susenwbaob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="susesfbaob.resx">
+      <DependentUpon>susesfbaob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="susesfbaobxx.resx">
+      <DependentUpon>susesfbaobxx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usershusu2.resx">
+      <DependentUpon>Usershusu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Userzhusu1.resx">
+      <DependentUpon>Userzhusu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_4_1.resx">
+      <DependentUpon>Admin_suseok_4_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_2.resx">
+      <DependentUpon>Admin_suseok_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_suseok_4.resx">
+      <DependentUpon>Admin_suseok_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAAxgpwd.resx">
+      <DependentUpon>frmAAxgpwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xueshengxinxibaobiao.resx">
+      <DependentUpon>xueshengxinxibaobiao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="版本更新.resx">
+      <DependentUpon>版本更新.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QQ图片20171025200258.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\学生宿舍房3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加图标3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改图标2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\查找3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\删除图标3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\前进_看图王.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\返回_看图王.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片初始化.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\照片.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\返回PNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\关闭是-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\最小化.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\账号.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\成绩管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\普工管理0 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\学生管理0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\添加管理员.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teachers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-7s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\programmer_3d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\programmer_3d1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QQ图片20171111133605.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改图标21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12321312.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-312123312321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-6564564564564.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55545.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\54645654.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5464565464.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\879789.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改图标244.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改图标28888.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改图标22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8797897897.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\54564d564sad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2132131231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8797898797.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\456.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4daf415b00717b635b9740de7e746ed5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d318a451f2bc0b9bfb9711b52c147b68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadsadasdsa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1232131231231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46879544.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46879.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\468795441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63UU5NUZ%28V06ZVT8U%29G5GUE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pwss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pwss1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\we.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssss1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="WeatherNameSpace\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\天气\项目天气\WindowsForm\WindowsForm.csproj">
+      <Project>{e994665b-773e-44bb-9dd7-65ecc6c50476}</Project>
+      <Name>WindowsForm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QQ图片20171212190408.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\515348.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1094815.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e4a1d2f54ed130a0161caea28ba62a1b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123456.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sda1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-7撒打算.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\学生会管理.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\学生1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Office">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>99</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ooopic_1521955072.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ooopic_15219550721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ooopic_1521956354.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ooopic_1521956472.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\未标题-2%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1231.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登录界面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\312312312312312.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
